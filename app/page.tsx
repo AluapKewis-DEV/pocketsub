@@ -1,10 +1,5 @@
-
-
 export default function Home() {
-  return (
-    <main>
-      Dzień dobry from Pocketsub
-    </main>
-    
-  );
+    return (
+        <main className="mx-4 p-0 text-center">Dzień dobry from Pocketsub</main>
+    )
 }
